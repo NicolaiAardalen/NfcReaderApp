@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+	<string name="app_name">NFC_chip</string>
+	<string name="action_settings">Settings</string>
+	<string name="uri_label">URI:</string>
+	<string name="text_label">Text:</string>
+</resources>
